@@ -1,5 +1,5 @@
 ---
-title: "My current dissertation in partial fulfillment of MS Mathematical Sciences(Big Data|Finance"
+title: "My current dissertation in partial fulfillment of MS Mathematical Sciences(Big Data|Finance)"
 excerpt: "Credit risk modeling<br/><img src='/images/Gaussian_copula_PDF.png'>"
 collection: portfolio
 ---
