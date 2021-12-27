@@ -17,7 +17,7 @@ I am currently leveraging Machine learning and Deep learning skills in the appli
 
 My daily activities involve researching, learning and creating of new materials that help improve my skills and studies. On my [Github](https://github.com/IkeKobby) I have a few materials of my day to day activities in the respective repositories which are often updated as and when the need arises. 
 
-I am available for collaboration on projects that relate to my areas of interest mentioned above. However, I am curious to apply my skills in any field as long as the problem is addressable and interpretable in the machine learning and deep learning world.
+I am available for collaboration on projects that relate to my areas of interest listed below. However, I am curious to apply my skills in any field as long as the problem is addressable and interpretable in the machine learning and deep learning world.
 
 ---
 ### Research Interests
