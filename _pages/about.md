@@ -21,6 +21,7 @@ I am available for collaboration on projects that relate to my areas of interest
 
 ---
 ### Research Interests
+Deep Learning and Graph Based Machine Learning towards;
 - AI with Finance  
 - Computer Vision
 - Natural Language Processing
