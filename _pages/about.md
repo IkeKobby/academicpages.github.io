@@ -30,9 +30,9 @@ Deep Learning and Graph Based Machine Learning towards;
 ---
 
 ### Contacts
-- Phone: (+221) 77 571 2158 (Senegal) 
+- Phone/WhatsApp: (+221) 77 571 2158 (Senegal) 
 - Email: isaac.k.anni@aims-senegal.org
-- WhatsApp: (+233) 50 119 9601 (Ghana) 
+
 
 ---
 Good read!!!
