@@ -15,6 +15,17 @@ Education and Training
 ======
 **Academic skills acquired** 
 
+[Bowling Green State University](https://www.bgsu.edu)
+* MSc in Data Science, 2022-2024 (expected)
+  * Machine Learning/Deep Learning 
+    * Computer Vision
+    * Natural Language Processing
+    * AI with Finance
+  * Database and Management System
+  * Probability and Statistics
+    * Descriptive Analysis for qualitative and quantitative data
+  * Data Mining and Big Data Analytics
+
 [African Institute for Mathematical Sciences, AIMS -Senegal](https://aims-senegal.org/)
 * MSc in Mathematical Sciences, 2020-2022 (expected)
   * Machine Learning/Deep Learning 
@@ -37,30 +48,26 @@ Education and Training
 
 Work experience
 ======
-[Advans Ghana Savings & Loans Limited](https://www.advansghana.com/)
 
-* 2019-2020: Legal Administrative Assistant
+[Bowling Green State University](https://www.bgsu.edu)
+
+* 2022-current: Graduate Research Assistant
+- DARPA’s project on Hyperlocal Elicitation and Understanding of Risks to Stability In Complex Systems.
   * Duties included:
-    * Preparation of mortgage, debenture, Hearing Notice, Affidavits, court letters etc.
-    * Registration of mortgage, debenture and other land documents
-    * Vehicle registration and change of ownership.
+    * Data analysis
+    * Building and designing dashboards using PowerBI.
+    * Designing workflow to automate daily activities.
 
-[Newmont Goldcorp Corporation](https://newmont.com/)
 
-* June-September, 2018: Intern
-  * Duties included: 
-    * Power Bill Analysis using Microsoft Excel
-    * Power rate review using Microsoft Excel
-    * Insurance Policy reviews
+[ICRISAT](https://www.icrisat.org/)
 
-[Hillside School Complex](https://www.coursesghana.com/schools/12205-hillside-school-complex.aspx)
+* 03/2022-08/2022: NLP Engineer, Postgraduate Research fellow.
+- Assisting in the office of the Student Success Analytics and Technologies.
+  * Duties included:
+    * Reading crop research papers publish in Senegal.
+    * Writing scripts to extract parameters for crop simulation.
+    * Contributing to the DARPA’s HABITUS project on Github.
 
-* 2014-2015: Tutor
-  * Duties included: 
-    * Mathematics and Science Tutor
-    * Examination coordinator
-    * Account Clerk
-  
 Skills
 ======
 * Soft skills
