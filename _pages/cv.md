@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Click here for the pdf version](https://github.com/IkeKobby/ikekobby.github.io/blob/master/files/cv.pdf](https://github.com/IkeKobby/ikekobby.github.io/blob/master/files/isaac-kobby-anni-resume.pdf)
+[Click here for the pdf version](https://github.com/IkeKobby/ikekobby.github.io/blob/master/files/isaac-kobby-anni-resume.pdf)
 
 Education and Training
 ======
