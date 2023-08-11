@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Click here for the pdf version](https://github.com/IkeKobby/ikekobby.github.io/blob/master/files/cv.pdf)
+[Click here for the pdf version]([https://github.com/IkeKobby/ikekobby.github.io/blob/master/files/cv.pdf](https://github.com/IkeKobby/ikekobby.github.io/blob/master/files/isaac-kobby-anni-resume.pdf))
 
 Education and Training
 ======
@@ -20,7 +20,6 @@ Education and Training
   * Machine Learning/Deep Learning 
     * Computer Vision
     * Natural Language Processing
-    * AI with Finance
   * Database and Management System
   * Probability and Statistics
     * Descriptive Analysis for qualitative and quantitative data
