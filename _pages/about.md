@@ -39,7 +39,8 @@ Deep Learning and Graph Based Machine Learning towards;
 ---
 ### Contacts
 - Phone/WhatsApp: +1 (419) 378 9889 
-- Email: isaackobbyanni@gmail.com
+- Personel-email: isaackobbyanni@gmail.com
+- school-email: isaacka@bgsu.edu
 
 
 ---
