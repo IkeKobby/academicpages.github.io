@@ -29,7 +29,7 @@ Should you seek an individual who brings a potent blend of academic prowess, tec
 Deep Learning and Graph Based Machine Learning towards;
 - Computer Vision
 - Natural Language Processing
-- Machine learning
+- Machine learning (Predictive modeling)
 
 ---
 ### Conference
