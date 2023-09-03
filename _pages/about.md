@@ -32,9 +32,15 @@ Deep Learning and Graph Based Machine Learning towards;
 - Machine learning
 
 ---
+### Conference
+- [AI in Agriculture; Innovation and discovery to equitably meet producer needs and perceptions](https://abe.ufl.edu/2023-ai-conference/workshops-and-sessions/)
+  - [Title: Novel Techniques Based on Artificial Intelligence and Earth Observation for Crop Model Parameterization](https://abe.ufl.edu/2023-ai-conference/workshops-and-sessions/#:~:text=Novel%20Techniques%20Based%20on%20Artificial%20Intelligence%20and%20Earth%20Observation%20for%20Crop%20Model%20Parameterization)
+- [AI in Agriculture; Innovation and discovery to equitably meet producer needs and perceptions](https://abe.ufl.edu/2023-ai-conference/workshops-and-sessions/)
+  - [Title: Natural Language Processing fro extracting crop model parameters from literature](https://github.com/IkeKobby/ikekobby.github.io/blob/master/files/agro_poster_draft6-1.pdf)
+ 
 ### Publications
 - [Annotating and Training for Population Subjective Views](https://aclanthology.org/2023.wassa-1.36/)
-- [Natural Language Processing for extractin crop model parameters from literature](https://github.com/IkeKobby/ikekobby.github.io/blob/master/files/agro_poster_draft6-1.pdf)
+
 
 ---
 ### Contacts
