@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Isaac Kobby Anni, a determined and results-driven individual, I possess a steadfast commitment to achieving goals. With a profound understanding of the significance of both life and economics, I consider learning to be an ongoing and progressive way of life. My unwavering fascination with machine learning and its diverse array of industrial applications has been the impetus behind my continuous research and scholarly pursuits. I embody humility, dedication, adaptability, discipline, diligence, self-assuredness, and above all, a deep sense of respect. I have a profound passion for table tennis
+I am Isaac Kobby Anni, a determined and results-driven individual. I possess a steadfast commitment to achieving goals. With a profound understanding of the significance of both life and economics, I consider learning to be an ongoing and progressive way of life. My unwavering fascination with machine learning and its diverse array of industrial applications has been the impetus behind my continuous research and scholarly pursuits. I embody humility, dedication, adaptability, discipline, diligence, self-assuredness, and above all, a deep sense of respect. I have a profound passion for table tennis
 
 I hold two Master's degrees. I recently completed my Master of Science in Data Science at [Bowling Green State University](https://www.bgsu.edu/), where I worked on the project "Using Word Embedding Based Document Representation for Text Classification on the Reuters Data." Prior to this, I earned a Master of Science in Mathematical Sciences at the African Institute for Mathematical Sciences (AIMS) Senegal.
 
