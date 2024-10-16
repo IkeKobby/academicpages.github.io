@@ -29,9 +29,9 @@ Should you seek an individual who brings a potent blend of academic prowess, tec
 ---
 ### Research Interests
 Deep Learning and Graph-Based Machine Learning towards:
-- Computer Vision
-- Natural Language Processing
-- Machine Learning (Predictive Modeling)
+- Natural Language Processing - NLU & Conversational AI
+- Machine Learning (Descriptive & Predictive Analyses)
+- Computer Vision - Segmentation||Classification||Processing
 
 ---
 ### Conference
