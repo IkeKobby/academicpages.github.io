@@ -31,7 +31,7 @@ Should you seek an individual who brings a potent blend of academic prowess, tec
 Deep Learning and Graph-Based Machine Learning towards:
 - Natural Language Processing - NLU & Conversational AI
 - Machine Learning (Descriptive & Predictive Analyses)
-- Computer Vision - Segmentation||Classification||Processing
+- Computer Vision - Segmentation, Classification, Image Processing.
 
 ---
 ### Conference
